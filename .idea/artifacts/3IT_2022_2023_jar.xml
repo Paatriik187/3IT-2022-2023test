@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="3IT-2022-2023:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/3IT_2022_2023_jar</output-path>
+    <root id="archive" name="3IT-2022-2023.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="3IT-2022-2023" />
+    </root>
+  </artifact>
+</component>
