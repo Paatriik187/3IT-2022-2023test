@@ -20,7 +20,7 @@ public class HadanieCisla {
 
             System.out.print("Pokus cislo "+z+" Zadaj svoj odhad:");
             int y = scanner.nextInt();
-                if(y==x){
+            if(y==x){
                 System.out.println("Správny odhad, cislo je "+x);
                 break;
 

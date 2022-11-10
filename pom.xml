@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>sk.sosholic.prvypolrok.Opakovanie</mainClass>
+                            <mainClass>sk.sosholic.prvypolrok.opakovanie.hadaniecisla.HadanieCisla</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
